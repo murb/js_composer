@@ -4,6 +4,7 @@
  * Plugin URI: http://wpbakery.com
  * Description: Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.
  * Version: 6.7.0
+ * GitHub Plugin URI: https://github.com/protocolist/js_composer
  * Author: Michael M - WPBakery.com
  * Author URI: http://wpbakery.com
  *
